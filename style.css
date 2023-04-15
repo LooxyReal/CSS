@@ -1,0 +1,27 @@
+#Title {
+    color: aqua;
+}
+.Parrafo1 {
+    color:blue
+}
+.Parrafo2 {
+    color: white ;
+}
+.Parrafo3 {
+    color: crimson;
+}
+.Titulo2 {
+    color: black;
+}
+.Color {
+    border: 3px darkblue; border-radius: 22px;
+    background-color: black;
+}
+.Color2 {
+    border:3px lightseagreen; border-radius: 22px;
+    background-color: darkcyan;
+}
+.Color3 {
+    border: 3px crimson ; border-radius: 22px;
+    background-color: magenta;
+}
